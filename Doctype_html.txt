@@ -1,0 +1,23 @@
+<! Doctype html/>
+<html lang:eng>
+<html>
+   <head>
+      <title>Greensville Newsletter<title>
+   <head>
+   <body>
+      <h1>New shops open!<h1>
+
+      <h3>Terry's Trucks<h3>
+
+    <p>Terry's Trucks is the perfect place for all of your trucking needs. Want new tires? Terry's has them! As one satisfied customer said <q>Terry's fixed up my truck, gave it a new paint job, and then charged me half of what it normally costs!<q> Which rings true, as Terry's is cheaper than most alternatives! And is commonly raited 5 stars for it's extremely high quality repairs! So stop by and get yourself luxurious treatment.<p>
+
+       <h3>Super supermarket<h3>
+
+    <p>A brand new supermarket has opened in greensville, and it is truly super! It is massive, almost the size of a mall. What does it have inside you may be wondering? Everything anyone could want and more! It has a huge food section, with fresh fruits and veg, as well as many frozen foods. Really it's impossible to name the full variety! There is a toy section right next to a game section, and then a cleaning isle, a bath isle, a building isle, I could go on for a while! We managed to arrange a interview with the owner of the market himself, <i>Johny Red<i> and here is what he had to say! <q>It came to my attention that this town had very little diversity when it came to stores. Which doesn't really matter when you now have a place with everything you could need and more.<q> So remember to stop by!<p>
+
+       <h1>Local team wins tournament!<h1>
+
+    <p>Local team the Greensville Conquerors have taken over yet another audience of people's hearts! With a spectacular play from the lead player <i>Alex Maverik<i> the conquerors bring home another victory for the history books! The locals are very happy about this, and have taken to using a new nickname for him <q>Mighty Maverik! Mighty Maverik!<q> fitting right? Anyways, this is one in a series of 5 victories for the team, and prospects have never looked higher. Who knows? Maybe they will win the next game!<p>
+
+    <body>
+    <html>
